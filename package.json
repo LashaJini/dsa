@@ -1,0 +1,28 @@
+{
+  "name": "dsa",
+  "version": "1.0.0",
+  "description": "data structures and algorithms solutions",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=test jest --runInBand --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/109149/dsa.git"
+  },
+  "keywords": [],
+  "author": "109149 <109149qwe@gmail.com> (http://109149.rocks/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/109149/dsa/issues"
+  },
+  "homepage": "https://github.com/109149/dsa#readme",
+  "devDependencies": {
+    "@babel/cli": "7.14.3",
+    "@babel/core": "7.14.3",
+    "@babel/node": "7.14.2",
+    "@babel/preset-env": "7.14.2",
+    "eslint": "7.26.0",
+    "jest": "26.6.3"
+  }
+}
