@@ -40,10 +40,13 @@ cargo t _1
 
 ## table
 
-| #   | link                                                                                                            | solution(s)                                         | source   | difficulty | keywords |
-| --- | --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | -------- | ---------- | -------- |
-| 1   | [Shuffle String](https://leetcode.com/problems/shuffle-string/)                                                 | [rust](src/leetcode/_1.rs), [js](js/leetcode/_1.js) | leetcode | easy       | sorting  |
-| 2   | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)                                     | [rust](src/leetcode/_2.rs), [js](js/leetcode/_2.js) | leetcode | easy       | sorting  |
-| 3   | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address)                                | [rust](src/leetcode/_3.rs), [js](js/leetcode/_3.js) | leetcode | easy       | string   |
-| 4   | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)                         | [rust](src/leetcode/_4.rs), [js](js/leetcode/_4.js) | leetcode | easy       | string   |
-| 5   | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | [rust](src/leetcode/_5.rs), [js](js/leetcode/_5.js) | leetcode | easy       | string   |
+| #   | link                                                                                                                              | solution(s)                                         | source   | difficulty | keywords |
+| --- | --------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | -------- | ---------- | -------- |
+| 1   | [Shuffle String](https://leetcode.com/problems/shuffle-string/)                                                                   | [rust](src/leetcode/_1.rs), [js](js/leetcode/_1.js) | leetcode | easy       | sorting  |
+| 2   | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)                                                       | [rust](src/leetcode/_2.rs), [js](js/leetcode/_2.js) | leetcode | easy       | sorting  |
+| 3   | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address)                                                  | [rust](src/leetcode/_3.rs), [js](js/leetcode/_3.js) | leetcode | easy       | string   |
+| 4   | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)                                           | [rust](src/leetcode/_4.rs), [js](js/leetcode/_4.js) | leetcode | easy       | string   |
+| 5   | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)                   | [rust](src/leetcode/_5.rs), [js](js/leetcode/_5.js) | leetcode | easy       | string   |
+| 6   | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)                                         | [rust](src/leetcode/_6.rs), [js](js/leetcode/_6.js) | leetcode | easy       | string   |
+| 7   | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/submissions/) | [rust](src/leetcode/_7.rs), [js](js/leetcode/_7.js) | leetcode | easy       | string   |
+| 8   | [Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/)   | [rust](src/leetcode/_8.rs), [js](js/leetcode/_8.js) | leetcode | easy       | string   |
