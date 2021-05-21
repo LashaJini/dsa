@@ -40,6 +40,10 @@ cargo t _1
 
 ## table
 
-| #   | link                                                            | solution(s)                                         | source   | difficulty | keywords |
-| --- | --------------------------------------------------------------- | --------------------------------------------------- | -------- | ---------- | -------- |
-| 1   | [Shuffle String](https://leetcode.com/problems/shuffle-string/) | [rust](src/leetcode/_1.rs), [js](js/leetcode/_1.js) | leetcode | easy       | sorting  |
+| #   | link                                                                                                            | solution(s)                                         | source   | difficulty | keywords |
+| --- | --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | -------- | ---------- | -------- |
+| 1   | [Shuffle String](https://leetcode.com/problems/shuffle-string/)                                                 | [rust](src/leetcode/_1.rs), [js](js/leetcode/_1.js) | leetcode | easy       | sorting  |
+| 2   | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)                                     | [rust](src/leetcode/_2.rs), [js](js/leetcode/_2.js) | leetcode | easy       | sorting  |
+| 3   | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address)                                | [rust](src/leetcode/_3.rs), [js](js/leetcode/_3.js) | leetcode | easy       | string   |
+| 4   | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)                         | [rust](src/leetcode/_4.rs), [js](js/leetcode/_4.js) | leetcode | easy       | string   |
+| 5   | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | [rust](src/leetcode/_5.rs), [js](js/leetcode/_5.js) | leetcode | easy       | string   |
