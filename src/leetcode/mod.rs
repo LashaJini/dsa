@@ -21,3 +21,9 @@ pub mod _7;
 
 #[path = "./_8.rs"]
 pub mod _8;
+
+#[path = "./_9.rs"]
+pub mod _9;
+
+#[path = "./_10.rs"]
+pub mod _10;
