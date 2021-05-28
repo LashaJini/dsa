@@ -27,3 +27,24 @@ pub mod _9;
 
 #[path = "./_10.rs"]
 pub mod _10;
+
+#[path = "./_11.rs"]
+pub mod _11;
+
+#[path = "./_12.rs"]
+pub mod _12;
+
+#[path = "./_13.rs"]
+pub mod _13;
+
+#[path = "./_14.rs"]
+pub mod _14;
+
+#[path = "./_15.rs"]
+  pub mod _15;
+
+#[path = "./_16.rs"]
+  pub mod _16;
+
+#[path = "./_17.rs"]
+  pub mod _17;
